@@ -36,6 +36,7 @@ Program to implement linear regression model for predicting car prices and test 
 Developed by: MOHAN S
 RegisterNumber:  212223240094
 ```
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
@@ -128,6 +129,7 @@ plt.show()
 ```
 
 ## Output:
+
 ![Screenshot 2025-05-18 165930](https://github.com/user-attachments/assets/bfd501c9-52af-4dbb-8528-ae447a353a9f)
 
 ![Screenshot 2025-05-18 165954](https://github.com/user-attachments/assets/ce5d2921-4f81-4f0e-8244-9df1c7fbeac7)
